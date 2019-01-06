@@ -11,3 +11,5 @@ tp2.ipynb is an implementation of a HMM order 1.
 Projet.ipynb has a HMM order 1, a HMM order 2 and two tries to handle noisy insertions and deletions for HMM order 2.
 
 unsupervise_learning.ipynb is a tentative to implement unsupervised learning for HMMs, but isn't working well as of yet.
+
+HMM_2order.ipynb is another implementation of a second order HMM with better results, but its code is harder to understand.
