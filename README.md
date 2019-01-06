@@ -4,7 +4,7 @@ Projects in a Machine Learning class to learn how to implement HMM order 0, 1 an
 
 brown.save.p is the file that is used in tp1.ipynb and tp2.ipynb. It is opened with pickle instead of loading the original file from the nltk database.
 
-tp1.ipynb is an implementation of a "HMM order 0".
+tp1.ipynb is an implementation of a "HMM order 0", i.e. simply using observation (emission) probabilites to predict.
 
 tp2.ipynb is an implementation of a HMM order 1.
 
